@@ -141,6 +141,14 @@ function App() {
             </div>
           )}
         </div>
+        <a
+          className="simulation-button-answer"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdVOHUQErNbH4VBfEj1Xnpq8kJSgRq4HIsaJ50HFMT3P_lWuQ/viewform?usp=sharing&ouid=106686610103450159618"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Today
+        </a>
       </div>
     </>
   );
